@@ -1,0 +1,12 @@
+body{
+	background-color: coral;
+  font-family: 'Gill Sans', cursive, serif;
+  font-size: 16px;
+   background: url(../public/assests/img/burger.jpg);
+}
+
+.card{
+  padding: 2px;
+}
+
+/*<img id="pacman-title" src="../assests/img/burger.jpg" width="800px" />*/
